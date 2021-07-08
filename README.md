@@ -2,6 +2,8 @@
 iOS development test regarding hiring
 
 Dear Team,
-Hope your doing well I have just cpmpletet your test according to requirements and have build iOS application (objective C). Although i can develop it on Swift as well but i did not see any langauge dependency on test requirement so I wrote objective C code. Secondly, I want to demonstrate one thing that i could find out the Web API for weather forecast that can show multiple weather updates at a time, so I just have an API can be able to show Dbai weather update for current hours in Fahrenheit and Celsius as well. Please screenshots in project.
+Hope your doing well I have just cpmpleted your test according to requirements and have build iOS application (Objective-C). Although I can develop it on Swift as well but I did not see any langauge dependency on test requirement so I have written Objective-C code. Secondly, I want to demonstrate one thing that I could find out the Web API for weather forecast that can show multiple weather updates at a time, so I just have an API can be able to show Dubai weather update for current hours in Fahrenheit and Celsius as well. Please find screenshots in project.
 
-Best regards 
+Best regards .
+M Salman Khan
+Cell:+971544051153
